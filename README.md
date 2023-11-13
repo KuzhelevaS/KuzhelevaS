@@ -19,8 +19,8 @@
 * :book: "Clean Architecture" by Steve McConnell
 
 ### Contacts
-* :iphone: [@KuzhelevaSV](https://t.me/KuzhelevaSV)
-* :envelope: [mail@kuzheleva-sv.ru](mailto:mail@kuzheleva-sv.ru)
+* [t.me/KuzhelevaSV](https://t.me/KuzhelevaSV)
+* [mail@kuzheleva-sv.ru](mailto:mail@kuzheleva-sv.ru)
 
 
 <!--
