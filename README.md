@@ -16,7 +16,7 @@
 * :mortar_board: C++ Developer Professional Training Course at Practicum by Yandex
 * :book: "Code Complete" by Steve McConnell
 * :book: "Clean Code" by Robert C. Martin 
-* :book: "Clean Architecture" by Steve McConnell
+* :book: "Clean Architecture" by Robert C. Martin 
 
 ### Contacts
 * [t.me/KuzhelevaSV](https://t.me/KuzhelevaSV)
